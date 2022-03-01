@@ -1,0 +1,5 @@
+Q1:What are diffrent model inheritance style in the django?
+Q2:What are django signals?
+Q3:Explain the caching strating in the django?
+Q4:Explain user authenticatio in django?
+Q5:How configure static files
